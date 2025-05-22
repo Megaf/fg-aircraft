@@ -11,7 +11,7 @@ HUDFont =  VSDFont = TEWSFont = MPCDFont = stdFont;
 var canvas_font_mapper = func(family, weight) {
 #    print("font map ",family," ",weight);
     # return "HornetDisplay-Regular.ttf";
-    return "notosansmono-black.ttf";
+    return "NotoSansMono-Black.ttf";
     return "HornetDisplay-Bold.ttf";
     return "monoMMM_5.ttf";
     return "LiberationFonts/LiberationSans-Bold.ttf";
